@@ -1,0 +1,14 @@
+.router a{
+    padding: 10px;
+    text-align: center;
+    color: #eee;
+    max-height: 120px;
+    min-width: 120px;
+    background-color: #607d8b;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.router a:not(:last-child){
+    margin-right: 10px;
+}
